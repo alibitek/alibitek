@@ -64,7 +64,7 @@ Available upon request via :email:.
 - Programming languages: Go, Python, C++, Java, PHP, SQL  
 - Platform: Cloud Native, Docker, Kubernetes, Helm  
 - Infrastructure: Linux, AWS, GCP, Terraform, GitLab, Jenkins  
-- Architecture: Asynchronous, Event driven, Reactive, Microservices  
+- Architecture: Asynchronous, Event driven, Reactive, DDD, Microservices  
 - Testing: Unit, Integration, TDD, BDD, Design by contract, Static analysis  
 - APIs: REST, JSON:API, OpenAPI, Protobuf, gRPC, DBus  
 - Networking: TCP/IP, UDP, HTTP, MQTT, WebSockets, SSE 
