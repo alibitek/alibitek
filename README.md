@@ -74,7 +74,7 @@ Available upon request via :email:.
 
 #### Frontend (Web, Mobile)
 - JavaScript, TypeScript, Vue.js, Qt Quick/QML, Flutter/Dart
-- Learning: React.js, React Native
+- Learning: React.js, React Native, Kotlin
 
 ### Statistics
 [![Ali Bitek's github stats](https://github-readme-stats.vercel.app/api?username=alibitek&count_private=true&show_icons=true)](https://github.com/alibitek)
