@@ -55,7 +55,7 @@ My name is Ali, a Full-Stack Senior Software Engineer with several years of prof
 - Learning: Node.js
 
 #### Frontend (Web, Mobile)
-- Know/Using: JavaScript, TypeScript, Vue.js, Qt Quick/QML, Flutter/Dart
+- JavaScript, TypeScript, Vue.js, Qt Quick/QML, Flutter/Dart
 - Learning: React.js, React Native
 
 ### Statistics
