@@ -9,15 +9,23 @@ func main() {
 }
 ```
 
-### About
+### About :seedling:
 #### Description
-My name is Ali, a Full-Stack Senior Software Engineer with several years of professional experience.
-- :heavy_check_mark: Problem solver, lifelong learner.
-- :hammer: Polyglot, hands-on programmer, systems architect.
-- :sunflower: Focus on clean, testable, maintainable code and design.
-- :balance_scale: Background in full stack (frontend, backend) development of web and mobile apps.
-- :loudspeaker: Proactive in communication, adaptable in collaboration.
-- :earth_africa: Passion for technology in the maps, location, navigation, spatial and geographic data domains.
+- :id: My real name is **Alex**, but online I prefer to be called **Ali** :man:.
+- :computer: Full-Stack Senior Software Engineer with several years of professional experience.
+- :romania: Based in Transylvania, Romania :herb:.
+- :heavy_check_mark: Problem solver, lifelong learner :book:.
+- :hammer: Polyglot, hands-on programmer, systems architect :toolbox:.
+- :sunflower: Focus on clean, testable, maintainable code and design :star:.
+- :balance_scale: Background in full stack (frontend, backend) development of web and mobile apps :full_moon:.
+- :loudspeaker: Proactive in communication, adaptable in collaboration :link:.
+- :earth_africa: Passion for technology in the maps, location, navigation, spatial and geographic data domains :blossom:.
+- ⚡ Fun facts: 
+  - `bitek` means `bits` in hungarian 
+  - `bitek` is also:
+  	- a fictional substance mentioned numerous times in the [Night's Dawn Trilogy by Peter F. Hamilton](https://en.wikipedia.org/wiki/The_Night%27s_Dawn_Trilogy). 
+  	- a supremely advanced "Edenist" biotechnology which can grow and change shape. 
+  	- a technically living material, however it is genetically engineered to act similarly to a computer, often "programmed" via affinity (telepathy).
 
 #### Online
 <a href="https://github.com/alibitek"><img align="left" alt="Ali Bitek's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /></a><a href="https://gitlab.com/users/alibitek/groups"> <img align="left" alt="Ali Bitek's GitLab" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gitlab.svg" /> </a> <a href="https://stackoverflow.com/users/313113/bitek?tab=topactivity"> <img align="left" alt="Ali Bitek's StackOverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" /></a> <a href="https://leetcode.com/alibitek/"><img align="left" alt="Ajay's Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" /></a> <a href="https://www.hackerrank.com/alibitek"><img align="left" alt="Ajay's Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" /></a> <a href="https://twitter.com/AliBitek"><img align="left" alt="Ali Bitek's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a><br/>
@@ -53,7 +61,7 @@ Available upon request via :email:.
 ### Skills/Technologies/Interests
 
 #### Backend
-- Programming languages: Golang, Python, C++, Java, PHP, SQL  
+- Programming languages: Go, Python, C++, Java, PHP, SQL  
 - Platform: Cloud Native, Docker, Kubernetes, Helm  
 - Infrastructure: Linux, AWS, GCP, Terraform, GitLab, Jenkins  
 - Architecture: Asynchronous, Event driven, Reactive, Microservices  
