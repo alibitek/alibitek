@@ -10,9 +10,7 @@ func main() {
 ```
 
 ### About
-<a href="https://github.com/alibitek"><img align="left" alt="Ali Bitek's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /></a><a href="https://gitlab.com/users/alibitek/groups"> <img align="left" alt="Ali Bitek's GitLab" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gitlab.svg" /> </a> <a href="https://stackoverflow.com/users/313113/bitek?tab=topactivity"> <img align="left" alt="Ali Bitek's StackOverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" /></a> <a href="https://leetcode.com/alibitek/"><img align="left" alt="Ajay's Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" /></a> <a href="https://www.hackerrank.com/alibitek"><img align="left" alt="Ajay's Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" /></a>
-
-<br/>
+<a href="https://github.com/alibitek"><img align="left" alt="Ali Bitek's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /></a><a href="https://gitlab.com/users/alibitek/groups"> <img align="left" alt="Ali Bitek's GitLab" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gitlab.svg" /> </a> <a href="https://stackoverflow.com/users/313113/bitek?tab=topactivity"> <img align="left" alt="Ali Bitek's StackOverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" /></a> <a href="https://leetcode.com/alibitek/"><img align="left" alt="Ajay's Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" /></a> <a href="https://www.hackerrank.com/alibitek"><img align="left" alt="Ajay's Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" /></a> <br/>
 
 My name is Ali, a Full-Stack Senior Software Engineer with several years of professional experience.
 - Problem solver, lifelong learner.
