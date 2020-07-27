@@ -19,7 +19,7 @@ My name is Ali, a Full-Stack Senior Software Engineer with several years of prof
 - Background in full stack (frontend, backend) development of web and mobile apps.
 - Proactive in communication, adaptable in collaboration.
 
-### Open source contributions (Python, Android/Java)
+### Open source contributions (Python, Android/Java/Dart)
 - Google Flutter project contributor ([SDK](https://github.com/flutter/flutter), [plugins](https://github.com/flutter/plugins), [engine](https://github.com/flutter/engine)) using Dart and C++  
 - Uber awarded community contributor for helping other developers understand how to use Uber API in their apps via StackOverflow answers and GitHub contributions  
 - Digital Ocean Hacktoberfest T-shirt winner (Android development contributions)  
