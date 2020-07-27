@@ -12,11 +12,12 @@ func main() {
 ### About
 #### Description
 My name is Ali, a Full-Stack Senior Software Engineer with several years of professional experience.
-- Problem solver, lifelong learner.
-- Polyglot, hands-on programmer, systems architect.
-- Focus on clean, testable, maintainable code and design.
-- Background in full stack (frontend, backend) development of web and mobile apps.
-- Proactive in communication, adaptable in collaboration.
+- :heavy_check_mark: Problem solver, lifelong learner.
+- :hammer: Polyglot, hands-on programmer, systems architect.
+- :sunflower: Focus on clean, testable, maintainable code and design.
+- :balance_scale: Background in full stack (frontend, backend) development of web and mobile apps.
+- :loudspeaker: Proactive in communication, adaptable in collaboration.
+- :earth_africa: Passion for technology in the maps, location, navigation, spatial and geographic data domains.
 
 #### Online
 <a href="https://github.com/alibitek"><img align="left" alt="Ali Bitek's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /></a><a href="https://gitlab.com/users/alibitek/groups"> <img align="left" alt="Ali Bitek's GitLab" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gitlab.svg" /> </a> <a href="https://stackoverflow.com/users/313113/bitek?tab=topactivity"> <img align="left" alt="Ali Bitek's StackOverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" /></a> <a href="https://leetcode.com/alibitek/"><img align="left" alt="Ajay's Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" /></a> <a href="https://www.hackerrank.com/alibitek"><img align="left" alt="Ajay's Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" /></a> <a href="https://twitter.com/AliBitek"><img align="left" alt="Ali Bitek's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a><br/>
@@ -25,7 +26,7 @@ My name is Ali, a Full-Stack Senior Software Engineer with several years of prof
 Work in progress: https://bitek.dev
 
 #### CV/Résumé
-Available upon request via email.
+Available upon request via :email:.
 
 ### Open source contributions
 - Google Flutter project contributor ([SDK](https://github.com/flutter/flutter), [plugins](https://github.com/flutter/plugins), [engine](https://github.com/flutter/engine)) using Dart and C++  
