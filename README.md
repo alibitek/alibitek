@@ -10,8 +10,7 @@ func main() {
 ```
 
 ### About
-<a href="https://github.com/alibitek"><img align="left" alt="Ali Bitek's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /></a><a href="https://gitlab.com/users/alibitek/groups"> <img align="left" alt="Ali Bitek's GitLab" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gitlab.svg" /> </a> <a href="https://stackoverflow.com/users/313113/bitek?tab=topactivity"> <img align="left" alt="Ali Bitek's StackOverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" /></a> <a href="https://leetcode.com/alibitek/"><img align="left" alt="Ajay's Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" /></a> <a href="https://www.hackerrank.com/alibitek"><img align="left" alt="Ajay's Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" /></a> <br/>
-
+#### Description
 My name is Ali, a Full-Stack Senior Software Engineer with several years of professional experience.
 - Problem solver, lifelong learner.
 - Polyglot, hands-on programmer, systems architect.
@@ -19,13 +18,23 @@ My name is Ali, a Full-Stack Senior Software Engineer with several years of prof
 - Background in full stack (frontend, backend) development of web and mobile apps.
 - Proactive in communication, adaptable in collaboration.
 
-### Open source contributions (Python, Android, Java, Dart)
+#### Online
+<a href="https://github.com/alibitek"><img align="left" alt="Ali Bitek's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /></a><a href="https://gitlab.com/users/alibitek/groups"> <img align="left" alt="Ali Bitek's GitLab" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gitlab.svg" /> </a> <a href="https://stackoverflow.com/users/313113/bitek?tab=topactivity"> <img align="left" alt="Ali Bitek's StackOverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" /></a> <a href="https://leetcode.com/alibitek/"><img align="left" alt="Ajay's Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" /></a> <a href="https://www.hackerrank.com/alibitek"><img align="left" alt="Ajay's Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" /></a> <br/>
+
+#### Personal website, portofolio, blog
+Work in progress: https://bitek.dev
+
+#### CV/Résumé
+Available upon request via email.
+
+### Open source contributions
 - Google Flutter project contributor ([SDK](https://github.com/flutter/flutter), [plugins](https://github.com/flutter/plugins), [engine](https://github.com/flutter/engine)) using Dart and C++  
 - Uber awarded community contributor for helping other developers understand how to use Uber API in their apps via StackOverflow answers and GitHub contributions  
 - Digital Ocean Hacktoberfest T-shirt winner (Android development contributions)  
 - Python developer and maintainer for push notifications library: [python-gcm](https://github.com/geeknam/python-gcm)  
 - Python hacker for civic/government projects at [GovITHub](https://github.com/gov-ithub)  
 - [Daily Dozen Android](https://github.com/nutritionfactsorg/daily-dozen-android) app contributor  
+- 100+ contributions to OpenStreetMap data - a collaborative project to create a free editable map of the world.
 
 ### Projects
 - Using GitHub to contribute to open source and private work projects.
