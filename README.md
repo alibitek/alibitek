@@ -64,7 +64,7 @@ Available upon request via :email:.
 - Programming languages: Go, Python, C++, PHP, Java, SQL  
 - Platform: Docker, Kubernetes, Helm 
 - Frameworks: Gin, Flask, Spring, Symphony, Express
-- Infrastructure: Linux, AWS, GCP, Terraform, GitLab, Jenkins  
+- Infrastructure: Git, Linux, Cloud (AWS, GCP), Terraform, GitLab, Jenkins  
 - Architecture: Asynchronous, Event driven, Microservices  
 - Testing: Unit, Integration, Design by contract, Static analysis  
 - APIs: REST, JSON:API, OpenAPI, Protobuf, DBus, XML  
