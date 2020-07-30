@@ -63,7 +63,7 @@ Available upon request via :email:.
 #### Backend
 - Programming languages: Go, Python, C++, PHP, Java, SQL  
 - Platform: Docker, Kubernetes, Helm 
-- Frameworks: Gin, Flask, Spring, Symphony, Express
+- Frameworks: Gin, Flask, Spring, Symphony
 - Infrastructure: Git, Linux, Cloud (AWS, GCP), Terraform, GitLab, Jenkins  
 - Architecture: Asynchronous, Event driven, Microservices  
 - Testing: Unit, Integration, Design by contract, Static analysis  
@@ -81,7 +81,7 @@ Available upon request via :email:.
 - Data: DDD, Cassandra, ElasticSearch, Kafka
 - Networking: gRPC
 - Frontend (Web/Mobile): React.js, React Native, Kotlin
-- Backend: Node.js
+- Backend: Node.js, Express
 
 ### Statistics
 [![Ali Bitek's github stats](https://github-readme-stats.vercel.app/api?username=alibitek&count_private=true&show_icons=true)](https://github.com/alibitek)
