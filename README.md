@@ -65,7 +65,7 @@ Available upon request via :email:.
 - Platform: Docker, Kubernetes, Helm 
 - Frameworks: Gin, Flask, Spring, Symphony
 - Infrastructure: Git, Linux, Cloud (AWS, GCP), Terraform, GitLab, Jenkins  
-- Architecture: Asynchronous, Event driven, Microservices  
+- Architecture: MVC, Asynchronous, Event driven, Microservices  
 - Testing: Unit, Integration, Design by contract, Static analysis  
 - APIs: REST, JSON:API, OpenAPI, Protobuf, DBus, XML  
 - Networking: TCP/IP, UDP, HTTP, MQTT, WebSockets, SSE, Nginx, Apache
