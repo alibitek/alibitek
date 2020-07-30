@@ -58,23 +58,30 @@ Available upon request via :email:.
 - Linux Foundation Certified System Administrator
 - International English Language Testing System (IELTS) Certified 
 
-### Skills/Technologies/Interests
+### Skills/Professional experience
 
 #### Backend
-- Programming languages: Go, Python, C++, Java, PHP, SQL  
-- Platform: Cloud Native, Docker, Kubernetes, Helm  
+- Programming languages: Go, Python, C++, PHP, Java, SQL  
+- Platform: Docker, Kubernetes, Helm 
+- Frameworks: Gin, Flask, Spring, Symphony, Express
 - Infrastructure: Linux, AWS, GCP, Terraform, GitLab, Jenkins  
-- Architecture: Asynchronous, Event driven, Reactive, DDD, Microservices  
-- Testing: Unit, Integration, TDD, BDD, Design by contract, Static analysis  
-- APIs: REST, JSON:API, OpenAPI, Protobuf, gRPC, DBus  
-- Networking: TCP/IP, UDP, HTTP, MQTT, WebSockets, SSE 
-- Data: SQL (PostgreSQL, MySQL/MariaDB, SQLite), NoSQL (Redis, Cassandra, MongoDB), ElasticSearch, Kafka, RabbitMQ  
+- Architecture: Asynchronous, Event driven, Microservices  
+- Testing: Unit, Integration, Design by contract, Static analysis  
+- APIs: REST, JSON:API, OpenAPI, Protobuf, DBus, XML  
+- Networking: TCP/IP, UDP, HTTP, MQTT, WebSockets, SSE, Nginx, Apache
+- Data: SQL (PostgreSQL, MySQL/MariaDB, SQLite), NoSQL (Redis, MongoDB, Memcached, LevelDB)  
 - Security: TLS, Lets Encrypt, HTTPS, OAuth, SSO, JWT  
-- Learning: Node.js
 
 #### Frontend (Web, Mobile)
-- JavaScript, TypeScript, Vue.js, Qt Quick/QML, Flutter/Dart
-- Learning: React.js, React Native, Kotlin
+- JavaScript, TypeScript, Vue.js, Android SDK & NDK, Qt Quick/QML, Flutter/Dart
+
+### Learning/Exploring
+- Fundamentals: Advanced math, data structures, algorithms, design patterns
+- Testing: TDD, BDD
+- Data: DDD, Cassandra, ElasticSearch, Kafka
+- Networking: gRPC
+- Frontend (Web/Mobile): React.js, React Native, Kotlin
+- Backend: Node.js
 
 ### Statistics
 [![Ali Bitek's github stats](https://github-readme-stats.vercel.app/api?username=alibitek&count_private=true&show_icons=true)](https://github.com/alibitek)
