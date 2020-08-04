@@ -18,7 +18,7 @@ func main() {
 - :romania: Based in Transylvania, Romania :herb:.
 - :heavy_check_mark: Problem solver, lifelong learner :book:.
 - :hammer: Polyglot, hands-on programmer, systems architect :toolbox:.
-- :sunflower: Focus on clean, testable, maintainable code and design :star:.
+- :sunflower: Focus on writing clean, testable code with a maintainable architecture :star:.
 - :balance_scale: Background in full stack (frontend, backend) development of web and mobile apps :full_moon:.
 - :loudspeaker: Proactive in communication, adaptable in collaboration :link:.
 - :earth_africa: Passion for technology in the maps, location, navigation, spatial and geographic data domains :blossom:.
