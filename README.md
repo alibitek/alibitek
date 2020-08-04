@@ -72,11 +72,11 @@ Available upon request via :email:.
 - Data: SQL (PostgreSQL, MySQL/MariaDB, SQLite), NoSQL (Redis, MongoDB, Memcached, LevelDB)  
 - Security: TLS, Lets Encrypt, HTTPS, OAuth, SSO, JWT  
 
-#### Frontend Web
+#### Frontend
 - JavaScript, TypeScript, Vue.js
 
 #### Mobile
-- Android SDK & NDK, Qt Quick/QML, Flutter/Dart
+- Android SDK (Java) & NDK (C++), Qt Quick/QML/C++, Flutter/Dart
 
 ### Learning/Exploring
 - Fundamentals: Advanced math, data structures, algorithms, design patterns
