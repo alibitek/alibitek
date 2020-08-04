@@ -61,9 +61,9 @@ Available upon request via :email:.
 ### Skills/Professional experience
 
 #### Backend
-- Programming languages: Go, Python, C++, PHP, Java, SQL  
+- Programming languages: Go, Python, C++ 
 - Platform: Docker, Kubernetes, Helm 
-- Frameworks: Gin, Flask, Spring, Symphony
+- Frameworks: Gin, Flask
 - Infrastructure: Git, Linux, Cloud (AWS, GCP), Terraform, GitLab, Jenkins  
 - Architecture: MVC, Asynchronous, Event driven, Microservices  
 - Testing: Unit, Integration, Design by contract, Static analysis  
@@ -72,13 +72,17 @@ Available upon request via :email:.
 - Data: SQL (PostgreSQL, MySQL/MariaDB, SQLite), NoSQL (Redis, MongoDB, Memcached, LevelDB)  
 - Security: TLS, Lets Encrypt, HTTPS, OAuth, SSO, JWT  
 
-#### Frontend (Web, Mobile)
-- JavaScript, TypeScript, Vue.js, Android SDK & NDK, Qt Quick/QML, Flutter/Dart
+#### Frontend Web
+- JavaScript, TypeScript, Vue.js
+
+#### Mobile
+- Android SDK & NDK, Qt Quick/QML, Flutter/Dart
 
 ### Learning/Exploring
 - Fundamentals: Advanced math, data structures, algorithms, design patterns
 - Testing: TDD, BDD
-- Data: DDD, Cassandra, ElasticSearch, Kafka
+- Architecture: DDD
+- Data: Cassandra, ElasticSearch, Kafka
 - Networking: gRPC
 - Frontend (Web/Mobile): React.js, React Native, Kotlin
 - Backend: Node.js, Express
