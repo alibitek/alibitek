@@ -63,12 +63,12 @@ Available upon request via :email:.
 ### Skills/Professional experience
 
 #### Backend
-- Programming languages: Go, Python, C++ 
+- Programming languages: Go, Python, C++, PHP 
 - Platform: Docker, Kubernetes, Helm 
 - Infrastructure: Git, Linux, Cloud (AWS, GCP), Terraform, GitLab, Jenkins  
 - Architecture: MVC, Asynchronous, Event driven, Microservices  
 - Testing: Unit, Integration, Design by contract, Static analysis  
-- Frameworks: Gin, Gorilla, [Pace Bricks (Microservices)](https://github.com/pace/bricks), Flask, Django
+- Frameworks: Gin, Gorilla, [Pace Bricks (Microservices)](https://github.com/pace/bricks), Flask, Django, Symphony
 - APIs: REST, JSON:API, OpenAPI, Protobuf, DBus, XML  
 - Networking: TCP/IP, UDP, HTTP, MQTT, WebSockets, SSE, Nginx, Apache
 - Data: SQL (PostgreSQL, MySQL/MariaDB, SQLite), NoSQL (Redis, MongoDB, Memcached, LevelDB)  
