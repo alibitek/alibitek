@@ -13,7 +13,8 @@ func main() {
 #### Description
 - :id: Hello, my name is **Alex** and online I prefer to be called **Ali** :man:.
 - :computer: Full-Stack Senior Software Engineer - with several years of professional experience :microscope:.
-- :briefcase: Available for hire as a Remote Freelancer and Software Consultant (Europe timezones preferred)
+- :briefcase: Available for hire as a Remote Freelancer and Software Consultant  
+(:clock12: Europe timezones preferred; :moneybag: Hourly rate: 28 EUR/hour or 33 USD/hour)  
 - :romania: Based in Transylvania, Romania :herb:.
 - :heavy_check_mark: Problem solver, lifelong learner :book:.
 - :hammer: Polyglot, hands-on programmer, systems architect :toolbox:.
@@ -64,10 +65,10 @@ Available upon request via :email:.
 #### Backend
 - Programming languages: Go, Python, C++ 
 - Platform: Docker, Kubernetes, Helm 
-- Frameworks: Gin, Flask
 - Infrastructure: Git, Linux, Cloud (AWS, GCP), Terraform, GitLab, Jenkins  
 - Architecture: MVC, Asynchronous, Event driven, Microservices  
 - Testing: Unit, Integration, Design by contract, Static analysis  
+- Frameworks: Gin, [Pace Bricks (Microservices)](https://github.com/pace/bricks), Flask, Django
 - APIs: REST, JSON:API, OpenAPI, Protobuf, DBus, XML  
 - Networking: TCP/IP, UDP, HTTP, MQTT, WebSockets, SSE, Nginx, Apache
 - Data: SQL (PostgreSQL, MySQL/MariaDB, SQLite), NoSQL (Redis, MongoDB, Memcached, LevelDB)  
