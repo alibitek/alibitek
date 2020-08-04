@@ -12,7 +12,7 @@ func main() {
 ### About :seedling:
 #### Description
 - :id: Hello, my name is **Alex** and online I prefer to be called **Ali** :man:.
-- :computer: Full-Stack, Senior Software Engineer, Freelancer - with several years of professional experience :microscope:.
+- :computer: Full-Stack, Senior Software Engineer, Freelancer, Software Consultant - with several years of professional experience :microscope:.
 - :romania: Based in Transylvania, Romania :herb:.
 - :heavy_check_mark: Problem solver, lifelong learner :book:.
 - :hammer: Polyglot, hands-on programmer, systems architect :toolbox:.
