@@ -13,8 +13,7 @@ func main() {
 #### Description
 - :id: Hello, my name is **Alex** and online I prefer to be called **Ali** :man:.
 - :computer: Full-Stack Senior Software Engineer - with several years of professional experience :microscope:.
-- :briefcase: Available for hire as a Remote Freelancer and Software Consultant  
-(:clock12: Europe timezones preferred; :moneybag: Hourly rate: 28 EUR/hour or 33 USD/hour)  
+- :briefcase: Available for hire as a Remote Freelancer and Software Consultant   
 - :romania: Based in Transylvania, Romania :herb:.
 - :heavy_check_mark: Problem solver, lifelong learner :book:.
 - :hammer: Polyglot, hands-on programmer, systems architect :toolbox:.
