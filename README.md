@@ -74,6 +74,15 @@ func main() {
 - [Daily Dozen Android](https://github.com/nutritionfactsorg/daily-dozen-android) app contributor  
 - 100+ contributions to OpenStreetMap data - a collaborative project to create a free editable map of the world.
 
+##### Certifications
+- Certified Qt Quick Specialist
+- Certified Qt C++ Specialist
+- Certified Qt and QML Developer
+- Google Certified Associate Android Developer
+- Linux Foundation Certified Engineer
+- Linux Foundation Certified System Administrator
+- Certified International English Language Testing System (IELTS)  
+
 ### Statistics
 [![Ali Bitek's github stats](https://github-readme-stats.vercel.app/api?username=alibitek&count_private=true&show_icons=true)](https://github.com/alibitek)
 
