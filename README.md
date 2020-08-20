@@ -11,7 +11,7 @@ func main() {
 
 ### About :seedling:
 #### Description
-- :id: Hello, my name is **Ali**, nice to meet you! :man:.
+- :id: Hi, my name is **Alex**, nice to meet you! :man:.
 - :computer: Full Stack Senior Software Engineer :microscope:.
 - :romania: Based in Transylvania, Romania :herb:.
 - :heavy_check_mark: Problem solver, lifelong learner :book:.
@@ -50,8 +50,10 @@ func main() {
 ##### Frontend
 - JavaScript
 - TypeScript
-- Mapbox GL JS
+- jQuery, jQuery Mobile
+- Leaflet.js, Mapbox GL JS, Google Maps JavaScript API, Marker Cluster
 - Vue.js
+- Angular
 
 ##### Mobile
 - Android SDK (Java, Kotlin)
