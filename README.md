@@ -48,12 +48,9 @@ func main() {
 - Security: TLS, Lets Encrypt, HTTPS, OAuth, SSO, JWT  
 
 ##### Frontend
-- JavaScript
-- TypeScript
-- jQuery, jQuery Mobile
-- Leaflet.js, Mapbox GL JS, Google Maps JavaScript API, Marker Cluster
-- Vue.js
-- Angular
+- Languages: JavaScript, TypeScript
+- Maps: Leaflet.js, Mapbox GL JS, Google Maps JavaScript API, Marker Cluster
+- UI: Vue, React, Angular, jQuery, jQuery Mobile
 
 ##### Mobile
 - Android SDK (Java, Kotlin)
