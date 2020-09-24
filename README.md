@@ -31,17 +31,17 @@ func main() {
 <a href="https://github.com/alibitek"><img align="left" alt="Ali Bitek's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /></a><a href="https://gitlab.com/users/alibitek/groups"> <img align="left" alt="Ali Bitek's GitLab" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gitlab.svg" /> </a> <a href="https://stackoverflow.com/users/313113/bitek?tab=topactivity"> <img align="left" alt="Ali Bitek's StackOverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" /></a> <a href="https://leetcode.com/alibitek/"><img align="left" alt="Ajay's Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" /></a> <a href="https://www.hackerrank.com/alibitek"><img align="left" alt="Ajay's Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" /></a> <a href="https://twitter.com/AliBitek"><img align="left" alt="Ali Bitek's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a><br/>
 
 #### Skills/Professional experience
-- :briefcase: Available for hire as a Remote Freelancer / Independent Contractor / Software Consultant     
+- :briefcase: Available for hire as a Remote Senior Software Engineer   
 - Personal website, portofolio, blog: https://bitek.dev
 - CV/Résumé available upon request via email.
 
 ##### Backend
-- Programming languages: Go, Python, C++, PHP 
+- Programming languages: Go, Python, C++ 
 - Platform: Docker, Kubernetes, Helm 
-- Infrastructure: Git, Linux, Cloud (AWS, GCP), Terraform, GitLab, Jenkins  
-- Architecture: MVC, Asynchronous, Event driven, Microservices  
+- Infrastructure: Git, Linux, Cloud (AWS, GCP)
+- Architecture: Asynchronous, Event driven, Microservices  
 - Testing: Unit, Integration, Design by contract, Static analysis  
-- Frameworks: Gin, Gorilla, [Pace Bricks (Microservices)](https://github.com/pace/bricks), Scrapy, Flask, Django, Symphony
+- Frameworks: Gin, Gorilla, [Pace Bricks (Microservices)](https://github.com/pace/bricks), Scrapy, Flask
 - APIs: REST, JSON:API, OpenAPI, Protobuf, DBus, XML  
 - Networking: TCP/IP, UDP, HTTP, MQTT, WebSockets, SSE, Nginx, Apache
 - Data: SQL (PostgreSQL, MySQL/MariaDB, SQLite), NoSQL (Redis, MongoDB, Memcached, LevelDB)  
@@ -50,12 +50,12 @@ func main() {
 ##### Frontend
 - Languages: JavaScript, TypeScript
 - Maps: Leaflet.js, Mapbox GL JS, Google Maps JavaScript API, Marker Cluster
-- UI: Vue, React, Angular, jQuery, jQuery Mobile
+- UI: jQuery, Vue, React 
 
 ##### Mobile
-- Android SDK (Java, Kotlin)
 - Android NDK (JNI, C, C++)
 - Qt framework (Qt Quick, QML, C++)
+- Android SDK (Java)
 - Flutter SDK (Dart)
 
 ##### Projects
@@ -69,16 +69,7 @@ func main() {
 - Python developer and maintainer for push notifications library: [python-gcm](https://github.com/geeknam/python-gcm)  
 - Python hacker for civic/government projects at [GovITHub](https://github.com/gov-ithub)  
 - [Daily Dozen Android](https://github.com/nutritionfactsorg/daily-dozen-android) app contributor  
-- 100+ contributions to OpenStreetMap data - a collaborative project to create a free editable map of the world.
-
-##### Certifications
-- Certified Qt Quick Specialist
-- Certified Qt C++ Specialist
-- Certified Qt and QML Developer
-- Google Certified Associate Android Developer
-- Linux Foundation Certified Engineer
-- Linux Foundation Certified System Administrator
-- Certified International English Language Testing System (IELTS)  
+- 100+ contributions to OpenStreetMap data - a collaborative project to create a free editable map of the world. 
 
 ### Statistics
 [![Ali Bitek's github stats](https://github-readme-stats.vercel.app/api?username=alibitek&count_private=true&show_icons=true)](https://github.com/alibitek)
