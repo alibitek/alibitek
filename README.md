@@ -2,7 +2,7 @@
 
 ### About :seedling:
 #### Description
-- :id: Hi, my name is **Alex**, nice to meet you! :man:.
+- :id: Hi there, web surfer, my name is **Alex**, nice to meet you! :man:.
 - :computer: Full Stack Senior Software Engineer :microscope:.
 - :romania: Based in Transylvania, Romania :herb:.
 - :heavy_check_mark: Problem solver, lifelong learner :book:.
