@@ -16,23 +16,6 @@
 - :briefcase: Available for hire as a Remote Senior Software Engineer   
 - Personal website, portofolio, blog: https://bitek.dev
 
-##### Backend
-- Programming languages: Go, Python, C++ 
-- Platform: Docker, Kubernetes, Helm 
-- Infrastructure: Git, Linux, Cloud (AWS, GCP)
-- Architecture: Asynchronous, Event driven, Microservices  
-- Testing: Unit, Integration, Design by contract, Static analysis  
-- Frameworks: Gin, Gorilla, [Pace Bricks (Microservices)](https://github.com/pace/bricks), Scrapy, Flask
-- APIs: REST, JSON:API, OpenAPI, Protobuf, DBus, XML  
-- Networking: TCP/IP, UDP, HTTP, MQTT, WebSockets, SSE, Nginx, Apache
-- Data: SQL (PostgreSQL, MySQL/MariaDB, SQLite), NoSQL (Redis, MongoDB, Memcached, LevelDB)  
-- Security: TLS, Lets Encrypt, HTTPS, OAuth, SSO, JWT  
-
-##### Frontend
-- Languages: JavaScript, TypeScript
-- Maps: Leaflet.js, Mapbox GL JS, Google Maps JavaScript API, Marker Cluster
-- UI: jQuery, Vue, React 
-
 ### Statistics
 [![Ali Bitek's github stats](https://github-readme-stats.vercel.app/api?username=alibitek&count_private=true&show_icons=true)](https://github.com/alibitek)
 
