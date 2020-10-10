@@ -1,20 +1,14 @@
 ### Hello! 👋
 
 ### About :seedling:
-#### Description
-- :computer: Senior Software Engineer :microscope:.
-- :romania: Based in Transylvania, Romania :herb:.
-- :heavy_check_mark: Problem solver, lifelong learner :book:.
-- :hammer: Polyglot, hands-on programmer, systems architect :toolbox:.
+- :computer: Software engineer, problem solver, critical thinker, lifelong learner. :microscope:.
 - :sunflower: Focus on writing clean, testable and maintainable code with scalable architecture :star:.
 - :balance_scale: Background in full stack development of web, mobile and embedded apps :full_moon:.
-    
-#### Online
-<a href="https://github.com/alibitek"><img align="left" alt="Ali Bitek's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /></a><a href="https://gitlab.com/users/alibitek/groups"> <img align="left" alt="Ali Bitek's GitLab" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gitlab.svg" /> </a> <a href="https://stackoverflow.com/users/313113/bitek?tab=topactivity"> <img align="left" alt="Ali Bitek's StackOverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" /></a> <a href="https://leetcode.com/alibitek/"><img align="left" alt="Ajay's Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" /></a> <a href="https://www.hackerrank.com/alibitek"><img align="left" alt="Ajay's Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" /></a> <a href="https://twitter.com/AliBitek"><img align="left" alt="Ali Bitek's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a><br/>
-
-#### Skills/Professional experience
-- :briefcase: Available for hire as a Remote Senior Software Engineer   
+- :briefcase: Using technical and soft skills to create business value, increase revenue, reduce costs,  
+solve real world problems and make people’s lives better
 - Personal website, portofolio, blog: https://bitek.dev
+
+<a href="https://github.com/alibitek"><img align="left" alt="Ali Bitek's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /></a><a href="https://gitlab.com/users/alibitek/groups"> <img align="left" alt="Ali Bitek's GitLab" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gitlab.svg" /> </a> <a href="https://stackoverflow.com/users/313113/bitek?tab=topactivity"> <img align="left" alt="Ali Bitek's StackOverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" /></a> <a href="https://leetcode.com/alibitek/"><img align="left" alt="Ajay's Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" /></a> <a href="https://www.hackerrank.com/alibitek"><img align="left" alt="Ajay's Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" /></a> <a href="https://twitter.com/AliBitek"><img align="left" alt="Ali Bitek's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a><br/>
 
 ### Statistics
 [![Ali Bitek's github stats](https://github-readme-stats.vercel.app/api?username=alibitek&count_private=true&show_icons=true)](https://github.com/alibitek)
