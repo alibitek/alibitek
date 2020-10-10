@@ -1,5 +1,3 @@
-### Hello! 👋
-
 ### About :seedling:
 - :computer: Software engineer, problem solver, critical thinker, lifelong learner. :microscope:.
 - :sunflower: Focus on clean, testable and maintainable code with scalable architecture :star:.
