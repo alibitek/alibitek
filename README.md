@@ -2,7 +2,7 @@
 
 ### About :seedling:
 - :computer: Software engineer, problem solver, critical thinker, lifelong learner. :microscope:.
-- :sunflower: Focus on writing clean, testable and maintainable code with scalable architecture :star:.
+- :sunflower: Focus on clean, testable and maintainable code with scalable architecture :star:.
 - :balance_scale: Background in full stack development of web, mobile and embedded apps :full_moon:.
 - :briefcase: Using technical and soft skills to create business value, increase revenue, reduce costs,  
 solve real world problems and make people’s lives better
